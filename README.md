@@ -19,7 +19,7 @@ Easy and Faster Apk Downloader
 
 * pc version
 
-*  19 it's bug try to other bundle id
+*  download size : 19 / 0MB it's fix bug try to other bundle id
 
 ### Information
 
