@@ -21,6 +21,8 @@ Easy and Faster Apk Downloader
 
 *  download size : 19 / 0MB it's fix bug try to other bundle id
 
+* Download Start Depending your internet speed
+
 
 
 License
