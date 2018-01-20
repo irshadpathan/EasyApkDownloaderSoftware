@@ -2,7 +2,7 @@
 Easy and Faster Apk Downloader 
 
 
-# Features List
+## Features List
 
 - Google play Paid and Free apps and games download
 
@@ -11,7 +11,7 @@ Easy and Faster Apk Downloader
 - Apk Path Download Folder
 
 
-Version history
+### Version history
 
 1.0 Beta
 
