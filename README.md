@@ -13,13 +13,13 @@ Easy and Faster Apk Downloader
 
 ### Version history
 
-1.0 Beta
+* [1.0 Beta]
 
-Google play store any paid and free apk download 
+* Google play store any paid and free apk download 
 
-pc version
+* pc version
 
-paid app sometime download under developement
+* paid app sometime download under developement
 
 Information
 
