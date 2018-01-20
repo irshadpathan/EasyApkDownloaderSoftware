@@ -1,7 +1,7 @@
 # Easy Apk Downloader Software
 Easy and Faster Apk Downloader 
 
-**Features List
+*Features List
 
 Google play Paid and Free apps and games download
 
@@ -10,7 +10,7 @@ Pc Version
 Apk Path Download Folder
 
 
-**Version history
+*Version history
 
 1.0 Beta
 
