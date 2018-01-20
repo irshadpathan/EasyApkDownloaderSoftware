@@ -21,6 +21,9 @@ Easy and Faster Apk Downloader
 
 * paid app sometime download under developement
 
-Information
+### Information
 
-Website : http://www.irshadkhan.info
+| Info | Url |
+| ------ | ------ |
+| Web | [http://www.irshadkhan.info] [PlDb] |
+
