@@ -4,6 +4,10 @@ Easy and Faster Apk Downloader
 
 [![AppVeyor](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://github.com/irshadpathan/EasyApkDownloaderSoftware)
 [![Gem](https://img.shields.io/gem/dt/rails.svg)](https://github.com/irshadpathan/EasyApkDownloaderSoftware)
+[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)](https://github.com/irshadpathan/EasyApkDownloaderSoftware)
+[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)](https://github.com/irshadpathan/EasyApkDownloaderSoftware)
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)](https://github.com/irshadpathan/EasyApkDownloaderSoftware)
+
 
 ## Features List
 
@@ -30,6 +34,8 @@ Easy and Faster Apk Downloader
 
 * Download Start Depending your internet speed
 
+### Note
+* This software is under developement
 
 
 License
