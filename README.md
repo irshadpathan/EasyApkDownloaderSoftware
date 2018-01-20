@@ -11,11 +11,13 @@ Easy and Faster Apk Downloader
 
 ## Features List
 
+- Os compatibility w7/w8/w8.1/w10
+
 - Google play Apk download
 
 - Pc Version 
 
-- Apk Path Download Folder
+- Download Path is Download Forlder
 
 ### Preview
 
