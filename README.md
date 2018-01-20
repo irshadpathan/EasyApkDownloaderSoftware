@@ -35,5 +35,5 @@ License
 MIT
 
 
-**Free Software
+Free Software
 
