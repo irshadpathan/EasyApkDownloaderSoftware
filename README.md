@@ -3,7 +3,7 @@ Easy and Faster Apk Downloader
 
 
 [![AppVeyor](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://github.com/irshadpathan/EasyApkDownloaderSoftware)
-
+[![Gem](https://img.shields.io/gem/dt/rails.svg)](https://github.com/irshadpathan/EasyApkDownloaderSoftware)
 
 ## Features List
 
