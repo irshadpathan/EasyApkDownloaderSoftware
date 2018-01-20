@@ -12,7 +12,7 @@ Easy and Faster Apk Downloader
 
 ### Preview
 
-https://media.giphy.com/media/3o752eLBYyyjUnOYqA/giphy.gif
+![Alt Text](https://media.giphy.com/media/3o752eLBYyyjUnOYqA/giphy.gif)
 
 
 ### Version history
