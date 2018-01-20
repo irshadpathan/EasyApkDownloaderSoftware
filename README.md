@@ -1,7 +1,8 @@
 # Easy Apk Downloader Software
 Easy and Faster Apk Downloader 
 
-Features List
+
+# Features List
 
 Google play Paid and Free apps and games download
 
@@ -20,6 +21,6 @@ pc version
 
 paid app sometime download under developement
 
-
+Information
 
 Website : http://www.irshadkhan.info
