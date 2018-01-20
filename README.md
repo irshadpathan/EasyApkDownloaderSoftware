@@ -4,7 +4,7 @@ Easy and Faster Apk Downloader
 
 ## Features List
 
-- Google play Paid and Free apps and games download
+- Google play Apk download
 
 - Pc Version 
 
@@ -15,11 +15,11 @@ Easy and Faster Apk Downloader
 
 - 1.0 Beta
 
-* Google play store any paid and free apk download 
+* Google play store any apk download 
 
 * pc version
 
-* paid app sometime download under developement
+*  19 it's bug try to other bundle id
 
 ### Information
 
