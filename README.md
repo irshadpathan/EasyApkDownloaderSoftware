@@ -4,11 +4,11 @@ Easy and Faster Apk Downloader
 
 # Features List
 
-Google play Paid and Free apps and games download
+- Google play Paid and Free apps and games download
 
-Pc Version 
+- Pc Version 
 
-Apk Path Download Folder
+- Apk Path Download Folder
 
 
 Version history
