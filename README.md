@@ -25,5 +25,14 @@ Easy and Faster Apk Downloader
 
 | Info | Url |
 | ------ | ------ |
-| Web | [http://www.irshadkhan.info] [PlDb] |
+| Web | [http://www.irshadkhan.info]|
+
+
+License
+----
+
+MIT
+
+
+**Free Software
 
