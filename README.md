@@ -2,6 +2,9 @@
 Easy and Faster Apk Downloader 
 
 
+[![AppVeyor](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://github.com/irshadpathan/EasyApkDownloaderSoftware)
+
+
 ## Features List
 
 - Google play Apk download
