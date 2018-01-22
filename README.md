@@ -26,6 +26,12 @@ Easy and Faster Apk Downloader
 
 ### Version history
 
+- 1.1 Beta
+
+* Adb Driver Install Automaticaly 
+
+* Recently Downloaded Apk Install Directly for Mobile
+
 - 1.0 Beta
 
 * Google play store any apk download 
